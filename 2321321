@@ -1,6 +1,6 @@
 @@ -0,0 +1,835 @@
  +/*
- +    DJANGO Admin styles
+ +    Sakamaki24 Admin styles
  +*/
  +
  +body {
