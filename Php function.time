@@ -3,7 +3,7 @@
  * A function for making time periods readable
  *
  * @author      Sakamaki chronos <sakamaki@php>
- * @version     2.0.1
+ * @version     0.0.0
  * @link        http://sakamaki/0000/00/making-time-periods-readable/
  * @param       int     number of seconds elapsed
  * @param       string  which time periods to display
